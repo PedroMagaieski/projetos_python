@@ -1,0 +1,5 @@
+
+Nome: Humberto
+Disciplina: Programação
+Notas: [5.5, 8.0, 7.5]
+Media: 7.0
